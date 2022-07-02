@@ -66,10 +66,11 @@ You can obtain the RPC Information from:
 Note: Start the RPC server: open Bitcoin-Qt.app --args -server
 
 
-DONATIONS
----------
 
-Donations for first developer **Someguy123** are accepted:
+----
 
-- BTC: 1SoMGuYknDgyYypJPVVKE2teHBN4HDAh3
-- LTC: LSomguyTSwcw3hZKFts4P453sPfn4Y5Jzv
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
+
